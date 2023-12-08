@@ -148,3 +148,31 @@
 // Begin 14
 
 
+// let X = +prompt ("X kg shokolad")
+// let A = +prompt ("A sum shokolad")
+// let Y = +prompt ("Y kg konfet")
+// let B = +prompt ("B sum konfet")
+
+// C = A / X ;
+// F = Y / B ;
+
+
+// D = C - F;
+
+// console.log ("Farq:", +D)
+
+// Begin 15
+
+// let X = +prompt ("X kg olma")
+// let A = +prompt ("A sum olma")
+// let Y = +prompt ("Y kg olma")
+// let B = +prompt ("B sum olma")
+
+// C = A + X ;
+// F = Y + B ;
+
+
+// D = C + F;
+
+// console.log ("UmumMiy:", D)
+
