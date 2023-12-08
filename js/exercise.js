@@ -56,7 +56,7 @@
 // console.log("O'rta arifmetigi =", M);
 
 
-//Begin 6 
+// Begin 6 
 
 // let a = +prompt("a ni kiriting");
 // let b = +prompt("b ni kiriting");
@@ -67,7 +67,7 @@
 // console.log ("Gipotenuzasi =", c)
 // console.log ("Perimetr =", P)
 
-//Begin 7 
+// Begin 7 
 
 // let R1= +prompt("Doirasi radiusi_1:");
 // let R2= +prompt("Doirasi radiusi_2:");
@@ -82,7 +82,7 @@
 // console.log("Yuza_2 =", S2)
 // console.log("Yuza_umumiy =", S)
 
-//Begin 8 
+// Begin 8 
 
 
 //  let R = +prompt("Doirasi radiusi:");
@@ -96,7 +96,7 @@
 // console.log ("Yuzasi =", S)
 
 
-//Begin 10 
+// Begin 10 
 // let A = +prompt("A ni kiriting")
 // let B = +prompt("B ni kiriting")
 // let C = +prompt("C ni kiriting")
@@ -113,4 +113,38 @@
 // console.log ("B =", B);
 // console.log ("C =", C);
 
-//Begin 10 
+// Begin 11 
+
+
+// let x = +prompt("x ni kiriting: ");
+
+//  y = 4 * (x - 3) ** 6 - 7 * (x - 3) ** 3 + 2;
+
+// console.log("y funksiya =", y);
+
+
+// Begin 12
+
+//  let A = +prompt ("A ni kiriting =", A );
+
+// Javob1 = A ** 3;
+// Javob6 = A ** 6;
+// Javob9 = A ** 9;
+// Javob15 = A ** 15;
+
+// console.log ("Javob1 =", Javob1);
+// console.log ("Javob6 =", Javob6);
+// console.log ("Javob9 =", Javob9);
+// console.log ("Javob15 =", Javob15);
+
+// Begin 13
+
+//  let TF = +prompt (" Farengeytni kiritin");
+
+//  Tc = (TF - 32) * 5/9;
+
+// console.log ("Gradus selsiy: =", Tc);
+
+// Begin 14
+
+
